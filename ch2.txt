@@ -3,4 +3,4 @@ Ch 2
  The film explores themes of morality, justice, and sacrifice, as Batman struggles with his dual identity and the consequences of his actions. Featuring a gripping plot, intense action, and complex characters, The Dark Knight is widely regarded as one of the greatest superhero films of all time.
   -- 
   EXTENDED CUT:
-    The darkknight's patince gets tested in the climax of this movie.
+    The darkknight's patince gets tested in the climax of this movie. finallllly learnt to merge using git 'merge' command!!!
